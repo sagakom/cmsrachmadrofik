@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Awan CMS",
-    "logo_img": "/images/rafik-cms-png.png",
+    "logo_img": "/images/rafik-cms-logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
