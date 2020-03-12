@@ -8,7 +8,7 @@ sections:
     bg: gray
     pricingplans:
       - title: Basic
-        price: $5/m
+        price: $0/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
@@ -18,7 +18,7 @@ sections:
           - label: Order Now
             url: /signup
       - title: Professional
-        price: $49/m
+        price: $9/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula
@@ -30,7 +30,7 @@ sections:
           - label: Order Now
             url: /signup
       - title: Enterprise
-        price: $149/m
+        price: $19/m
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
